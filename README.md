@@ -16,6 +16,30 @@ putting machine learning methods to use to build a prediction of water quality. 
 
 
 
+# Table of Contents
+
+
+Importing Libraries
+
+
+
+Uploading the data
+
+
+
+Data Cleaning
+
+
+EDA
+
+
+
+Feature Engineering
+
+
+
+Model Creation
+
 
 
 
